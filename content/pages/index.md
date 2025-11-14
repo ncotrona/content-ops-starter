@@ -7,7 +7,7 @@ sections:
       text: Let's Talk About Your Data Shopping Feeds
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Feed Management Solutions
     text: >+
       Whether you need full feed management, a one-time audit, coaching, or help
       deploying Google Automated Discounts™ and ChatGPT® Instant Checkout, we’d
